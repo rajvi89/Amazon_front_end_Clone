@@ -1,5 +1,5 @@
-Description
+Project Description: Amazon Front-End Clone
 
-I have developed an Amazon front-end clone website as a practice project to enhance my skills in HTML and CSS. This project is a simplified replica of the Amazon website, created solely for educational purposes. It includes key features and design elements of the original site to provide a realistic user interface experience.
+This project is a front-end clone of the Amazon website, created using only HTML and CSS for the purpose of front-end development practice. It aims to replicate the look and feel of the Amazon website, providing an opportunity to enhance my skills in web design and development.
 
-Please note that this is not an exact replica of the official Amazon website and does not include any backend functionality. The purpose of this project is to demonstrate my ability to create a visually similar website using only HTML and CSS, without any additional frameworks or libraries.
+Important Note: This is not an official Amazon website and should not be interpreted as such. It is a practice project intended solely for educational purposes, and it does not provide any of the functionalities or services offered by the original Amazon website.

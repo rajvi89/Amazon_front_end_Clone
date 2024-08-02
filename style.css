@@ -130,3 +130,9 @@ font-size: 30px;
     font-weight: 700;
     margin-right: 10%;
 }
+
+.banner-section{
+    background-image: url(amazon_images/b1.jpg);
+    background-size: cover;
+    height: 565px;
+}

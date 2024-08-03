@@ -159,12 +159,23 @@ font-size: 30px;
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    
-    
+
   
 }
 
 .box-detail{
     margin-left: 10px;
     margin-right: 10px;
+}
+footer{
+    margin-top: 15px;
+}
+.foot-panel1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
 }

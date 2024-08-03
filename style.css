@@ -6,7 +6,7 @@
 
 .navbar{
     height: 60px;
-    background-color: #232f3e;
+    background-color: #131921; 
     color: white;
     display: flex;
     align-items: center;
@@ -107,9 +107,11 @@ font-size: 30px;
 
 .panel{
     height: 40px;
-    background-color: #222f3d;
+    background-color: #232f3e;
+
     display: flex;
     color: white;
+    
     align-items: center;
     justify-content: space-evenly;
 }
@@ -134,5 +136,16 @@ font-size: 30px;
 .banner-section{
     background-image: url(amazon_images/b1.jpg);
     background-size: cover;
-    height: 565px;
+    height: 350px;
+}
+.shopbox{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #95bbfc;
+}
+
+.box{
+    height: 400px;
+    border: 2px solid;
+    width:23%;
 }

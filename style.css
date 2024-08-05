@@ -179,3 +179,41 @@ footer{
     align-items: center;
     font-size: 0.85rem;
 }
+.foot-panel2{
+    background-color: #232f3e;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 10px;
+}
+ul p{
+    font-weight: 700;
+}
+
+ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+.foot-panel3{
+    background-color: #232f3e;
+    color: white;
+    border-top: 0.5px solid white;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logo{
+    background-image: url("amazon_images/amazon_logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+
+}

@@ -217,3 +217,48 @@ ul a {
     width: 100px;
 
 }
+.foot-panel4{
+    background-color: #131921;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table {
+    width: 1000px;
+    border-collapse: collapse;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+td {
+    padding: 5px;
+    text-align: left;
+    vertical-align: top;
+
+}
+.foot-panel4 a {
+    text-decoration: none;
+    color: white;
+   
+}
+.foot-panel4 span {
+    display: block;
+    font-size: 0.85rem;
+    color: gray;
+}
+
+.foot-panel5{
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+    font-size: 0.75rem;
+    text-align: center;
+
+}
+
+.pages{
+    padding-top: 25px;;
+}
+.copyright{
+    padding-top: 15px;
+}

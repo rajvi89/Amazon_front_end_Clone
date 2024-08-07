@@ -27,7 +27,9 @@
     border: 2px transparent;
 }
 .border:hover{
-    border: 2px solid white;
+    border: 1.5px solid white;
+    margin: 5px 0px 6px;
+    padding: 8px 9px;
 }
 
 .add-first{
@@ -145,16 +147,18 @@ font-size: 30px;
     margin-right: 10%;
 }
 
-.banner-section{
+.banner-section{        
     background-image: url(amazon_images/b1.jpg);
     background-size: cover;
     height: 350px;
-}
+} 
+
+
 .shopbox{
     display: flex;
     flex-wrap: wrap; /*---------------main thig to learn */
     justify-content: space-evenly;
-    background-color: #95bbfc;
+    background-color: #62e6b5;
 }
 
 .box{
